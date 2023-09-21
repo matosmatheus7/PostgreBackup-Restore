@@ -19,9 +19,9 @@ Upon execution, the script will generate a log file detailing the backup process
 
 **Usage:** To initiate the backup process, run the following command with root privileges:
 
-bash
-
-`./pgbackup.sh` 
+```bash
+./pgbackup.sh
+```
 
 ### `pgrestore.sh`
 
@@ -36,8 +36,6 @@ The `pgrestore.sh` script is designed to facilitate database restoration operati
 Upon execution, the script will generate a log file detailing the restoration process.
 
 **Usage:** To begin the database restoration process, execute the following command with root privileges:
-
-bash
 
 ```bash
 ./pgrestore.sh
