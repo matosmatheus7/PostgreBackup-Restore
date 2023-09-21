@@ -12,7 +12,7 @@ The `pgbackup.sh` script enables the creation of backups for specified tables, w
 
 **Before running the script:**
 
--   Create a `table_list.txt` file in the script directory containing the names of the tables you want to back up.
+-   Create a `tablelist.txt` file in the script directory containing the names of the tables you want to back up.
 -   Customize the script variables to align with your specific requirements.
 
 Upon execution, the script will generate a log file detailing the backup process.
