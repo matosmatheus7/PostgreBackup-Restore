@@ -1,0 +1,4 @@
+books
+authors
+customers
+another_table_name_example
